@@ -41,5 +41,6 @@
     "typescript": "^5",
     "tsup": "^8",
     "jsdom": "^24.0.0"
-  }
+  },
+  "packageManager": "pnpm@9.0.4"
 }
